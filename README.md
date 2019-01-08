@@ -1,4 +1,4 @@
-The repository contains scripts to recreate the analyses presented in the manuscript, "Fully automated sequence alignment methods outperform traditional methods for phylogenetic analysis of hepatitis B viruses"
+The repository contains scripts to recreate the analyses presented in the manuscript, "Fully automated sequence alignment methods are comparable to, and much faster than, traditional methods in large data sets: an example with hepatitis B virus" - https://peerj.com/articles/6142/ 
 
 Scripts
 
